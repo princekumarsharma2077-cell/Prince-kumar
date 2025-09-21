@@ -1,2 +1,2 @@
 # Prince-kumar
-Hello world, this is my first github repository
+ studentLearning programming step by step | Documenting my progress here
