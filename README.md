@@ -1,2 +1,2 @@
 # Prince-kumar
- studentLearning programming step by step | Documenting my progress here
+ student Learning programming step by step | Documenting my progress here
